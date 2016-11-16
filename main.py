@@ -1,4 +1,8 @@
-def main(self):
-  print('hello')
-  
-  
+import pandasql
+
+
+def main():
+    print('hello')
+    a = pandasql.PandaSQL
+
+main()
